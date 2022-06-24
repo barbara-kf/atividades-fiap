@@ -89,6 +89,7 @@ h1 {
     text-align: right;
 }
 
+/* a barra de quanto foi gasto do total do limite do cartão */
 .barra {
     padding: 4px;
     background-color: black;
